@@ -25,3 +25,7 @@ chickenman669 (freesound.org) — keyboard typing sfx (cc0)
 kenney assets — ui click sfx (cc0)
 
 nachtmahrtv (freesound.org) — door slam sfx (cc0)
+<br>
+<br>
+<br>
+ai usage: i did use some light ai(in da script some the errors, a few changes)
